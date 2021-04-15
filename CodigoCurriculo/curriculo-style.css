@@ -1,0 +1,143 @@
+*{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.header-title{
+    font-weight: bold;
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    padding: 15px 0;
+}
+
+.foto-perfil{
+    position: absolute;
+    width: 200px;
+    height: 235px;
+    margin-left: 1100px;
+    border-radius: 7px;
+}
+
+.info{
+    padding-top: 5px;
+    padding-bottom: 15px;
+    font-size: 25px;
+}
+
+.formacoes h2{
+    margin: 30px 0 10px 0;
+    font-size: 30px;
+}
+
+.formacoes{
+    margin-bottom: 30px;
+    font-size: 18px;
+}
+
+.experiencias{
+    padding: 0px;
+}
+
+.experiencias h2{
+    margin: 50px 100px 10px 0;
+    font-size: 30px;
+}
+
+.experiencias li{
+    color: #e44659;
+    
+}
+
+.experiencias .atividades{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    font-size: 18px;
+    color: black;
+}
+
+.cargo{
+    margin-left: 30px;
+    color: black;
+}
+
+.cargo p{
+    color: black;
+}
+
+.cargo h3{
+    font-size: 20px;
+    margin-top: 30px;
+    color: black;
+}
+
+.habilidades{
+    font-size: 18px;
+    position: absolute;
+    top: 195px;
+    right: 200px;
+}
+
+.habilidades h2{
+    margin: 40px 0 30px 110px;
+    font-size: 30px;
+    
+}
+
+.habilidades .itens{
+    margin-left: 200px;
+    margin-top: 37px;
+}
+
+.habilidades ul li{
+    margin: 29px 65px;
+    list-style: none;
+}
+
+.barras{
+    list-style: none;
+    position: absolute;
+    display: inline-block;
+    margin-left: 699px;
+    margin-top: -583px;
+
+}
+
+.barras li{
+    margin: 15px 0;
+}
+
+.social-media{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: -150px;
+}
+
+.social-media img{
+    width: 72px;
+    height: 72px;
+    margin: 5px 40px 0px 40px;
+   
+
+}
+
+.social-media a img:hover{
+    transform: scale(1.15);
+    
+}
+
+
+.social-media .git, .linkedin{
+    border-radius: 10px;
+}
+
+footer{
+    background-color: black;
+    color: black;
+    padding: 20px;
+    text-align: left;
+    
+
+}

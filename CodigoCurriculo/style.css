@@ -1,0 +1,76 @@
+body{
+
+    margin: 0px;
+    background-color: lightgray;
+}
+
+.header-title{
+
+    color: white;
+    font-family: initial;
+    background-color:black;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.card{
+
+    text-align: justify;
+    color: black;
+    background-color: lightgray;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    padding: 0px 10px 10px 10px;
+}
+
+.card-title{
+    background-color: black;
+    color: white;
+    padding: 10px 10px 10px 10px;
+
+}
+
+button{
+    background-color: lightgray;
+    color: black;
+    padding: 5px 5px 5px 5px ;
+    margin-top: 20px;
+}
+
+.form-title{
+    background-color: black;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 20px;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+
+.form-contact{
+    display: grid;
+    color: black;
+    background-color: lightgray;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 10px 10px 10px 10px;
+
+}
+
+footer{
+    background-color:black;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+
+}
