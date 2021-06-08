@@ -1,5 +1,5 @@
 *{
-    margin: 0px 0px 0px 0px;
+    margin: 2px 2px 2px 2px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -81,18 +81,18 @@
 }
 
 .habilidades h2{
-    margin: 40px 0 30px 110px;
+    margin: 40px 0 30px 240px;
     font-size: 30px;
     
 }
 
 .habilidades .itens{
     margin-left: 200px;
-    margin-top: 37px;
+    margin-top: 50px;
 }
 
 .habilidades ul li{
-    margin: 29px 65px;
+    margin: 33px 155px;
     list-style: none;
 }
 
@@ -100,7 +100,7 @@
     list-style: none;
     position: absolute;
     display: inline-block;
-    margin-left: 699px;
+    margin-left: 800px;
     margin-top: -583px;
 
 }
